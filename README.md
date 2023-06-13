@@ -6,4 +6,7 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h2>Punto 1: link de figma</h2>
-<a href="https://www.figma.com/file/L2NbCLR6H6v6sDjowYNtrS/Mockup-atenea-luis-florez?type=design&node-id=0%3A1&t=JxuLtdT4IbYMdz6d-1">link de figma</a>
+<a href="https://www.figma.com/file/L2NbCLR6H6v6sDjowYNtrS/Mockup-atenea-luis-florez?type=design&node-id=0%3A1&t=JxuLtdT4IbYMdz6d-1" target="_blank">link de figma</a>
+
+<h2>Punto 2: HTML</h2>
+<img src="./public/images/html.png" alt="html">
