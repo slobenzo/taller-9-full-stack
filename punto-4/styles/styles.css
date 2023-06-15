@@ -1,0 +1,14 @@
+div {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    font-style: Georgia;
+}
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
