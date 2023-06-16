@@ -1,0 +1,31 @@
+p {
+    text-align: justify;
+}
+
+.green {
+    color: green;
+    text-decoration: underline;
+}
+.red {
+    color: red;
+    font-weight: bold;
+}
+.crossed {
+    text-decoration: line-through;
+}
+.big {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.blue {
+    color: blue;
+    font-size: 25px;
+    font-weight: bold;
+}
+.red-2 {
+  color: red;
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration: underline;
+}
