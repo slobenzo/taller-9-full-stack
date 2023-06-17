@@ -22,3 +22,6 @@
 
 <h2>Punto 5: CSS</h2>
 <img src="./public/images/css5.png" alt="css">
+
+<h2>Punto 6: CSS</h2>
+<img src="./public/images/css6.png" alt="css">

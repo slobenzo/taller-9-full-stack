@@ -1,0 +1,18 @@
+h2 {
+font-size: 24px;
+text-align: center;
+font-weight: bold;
+}
+
+.enlaces {
+    color: #000;
+    text-decoration: none;
+}
+
+.marca {
+    color: yellow;
+}
+
+.as {
+    color: purple;
+}
