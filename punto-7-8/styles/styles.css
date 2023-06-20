@@ -1,0 +1,29 @@
+header {
+  display: flex;
+  justify-content: space-between;
+
+  background-color: violet;
+  margin: 0px 120px 50px;
+  height: 80px;
+}
+
+nav ul {
+  display: flex;
+  gap: 50px;
+  list-style: none;
+  font-size: 20px;
+}
+
+
+nav a {
+  cursor: pointer;
+color: #fff;
+ text-decoration: #f0f1f4;
+
+}
+
+.blue-option {
+  background-color: blue;
+  padding: 8px;
+
+  }
