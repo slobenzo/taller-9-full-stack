@@ -1,0 +1,37 @@
+table {
+    background-color: yellow;
+
+    border-bottom: 2px dashed red;
+    border-right: 1px dotted black;
+    border-top: 1px dotted black;
+    border-left: 1px dotted black;
+
+    table-layout: 200px;
+}
+
+
+
+th {
+    color: red;
+    font-style: italic;
+
+    border-bottom: 1px dotted black;
+}
+
+.line-1 {
+    border-bottom: 1px dotted black;
+    border-right: 1px dotted black;
+}
+
+.line-2 {
+    border-bottom: 1px dotted black;
+}
+
+.line-3 {
+    border-bottom: 1px dotted black;
+    border-right: 1px dotted black;
+}
+
+.line-4 {
+    border-bottom: 1px dotted black;
+}
